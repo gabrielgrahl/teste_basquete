@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoBasquete", "JogoBasquete.csproj", "{E2DEB289-7C16-4268-9711-8EF6DA634EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoBasquete.Test", "..\JogoBasquete.Test\JogoBasquete.Test.csproj", "{8D85464A-3A0D-40CD-B9B4-A9D398DA9B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2DEB289-7C16-4268-9711-8EF6DA634EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DEB289-7C16-4268-9711-8EF6DA634EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DEB289-7C16-4268-9711-8EF6DA634EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DEB289-7C16-4268-9711-8EF6DA634EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D85464A-3A0D-40CD-B9B4-A9D398DA9B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D85464A-3A0D-40CD-B9B4-A9D398DA9B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D85464A-3A0D-40CD-B9B4-A9D398DA9B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D85464A-3A0D-40CD-B9B4-A9D398DA9B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6470A9A9-394F-4BBF-844D-199887C202CD}
+	EndGlobalSection
+EndGlobal
